@@ -9,9 +9,9 @@ atividades são armazenadas localmente no dispositivo usando `shared_preferences
 
 ## Capturas de Tela
 
-| Tela do Calendário | Diálogo de Adicionar Atividade | Diálogo para Confirmar Exclusão |
-|:------------------:|:------------------------------:|:-------------------------------:|
-|        * *         |              * *               |               * *               |
+|               Tela do Calendário               |                 Diálogo de Adicionar Atividade                 |                  Diálogo para Confirmar Exclusão                  |
+|:----------------------------------------------:|:--------------------------------------------------------------:|:-----------------------------------------------------------------:|
+| ![Tela do Calendário](screenshots/calendar.jpg) | ![Diálogo de Adicionar Atividade](screenshots/add_activity.jpg) | ![Diálogo para Confirmar Exclusão](screenshots/confirm_delete.jpg) |
 
 ## Funcionalidades
 
@@ -67,4 +67,5 @@ Siga estas etapas para configurar e executar o projeto localmente:
    flutter run
    ```
 
-O aplicativo deverá ser compilado e iniciado no seu dispositivo android, emulador ou navegador selecionado.
+O aplicativo deverá ser compilado e iniciado no seu dispositivo android, emulador ou navegador
+selecionado.
