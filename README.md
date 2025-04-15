@@ -51,7 +51,7 @@ Siga estas etapas para configurar e executar o projeto localmente:
 
 2. **Clonar o repositório:**
    ```bash
-   git clone <URL_SEU_REPOSITORIO>
+   git clone https://github.com/samuelt005/atividade_avaliativa_planejamento_de_rotina.git
    cd <NOME_DO_DIRETORIO_DO_PROJETO>
    ```
 
